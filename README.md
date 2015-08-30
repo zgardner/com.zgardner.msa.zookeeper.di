@@ -94,3 +94,8 @@ container from:
 $ docker images | grep zookeeper
 mpetazzoni/zookeeper   3.4.6              294bef30310b        2 days ago          12.29 kB (virtual 856.7 MB)
 ```
+
+Debug
+-----
+
+https://github.com/echoma/zkui/wiki/prebuild/win/zkui_win_20150502.zip
